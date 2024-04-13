@@ -2,7 +2,7 @@
   "sleeping": true,
   "incenseMode": false,
   "reactAfterCatch": false,
-  "logCatches": true,
+  "logCatches": false,
   "lowIVLog": "10.00",
   "highIVLog": "85.00",
   "logWebhook": "WEBHOOK TO LOG CATCHES",
